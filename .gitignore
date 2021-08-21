@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Python
+config.py
+
+# Files
+movie_lens.csv
+movies_df.csv
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.csv
+
 # C extensions
 *.so
 
