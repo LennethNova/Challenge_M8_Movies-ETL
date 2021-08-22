@@ -9,9 +9,7 @@ config.py
 # Documents
 movie_lens.csv
 movies_df.csv
-movies_metadata.csv
 ratings.csv
-wikipedia-movies.csv
 
 # C extensions
 *.so
