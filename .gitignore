@@ -6,7 +6,7 @@ __pycache__/
 # Python
 config.py
 
-# Files
+# Documents
 movie_lens.csv
 movies_df.csv
 movies_metadata.csv
